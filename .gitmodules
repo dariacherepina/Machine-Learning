@@ -1,0 +1,15 @@
+[submodule "session1"]
+	path = session1
+	url = https://github.com/ML-Course-2025/session1.git
+[submodule "session2"]
+	path = session2
+	url = https://github.com/ML-Course-2025/session2.git
+[submodule "session3"]
+	path = session3
+	url = https://github.com/ML-Course-2025/session3.git
+[submodule "session4"]
+	path = session4
+	url = https://github.com/ML-Course-2025/session4.git
+[submodule "session5"]
+	path = session5
+	url = https://github.com/ML-Course-2025/session5.git
